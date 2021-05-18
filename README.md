@@ -9,8 +9,12 @@ I'm Welisson Luca, aspiring back-end developer, passionate about anime, I like c
 
 
 - :rocket: I’m looking for organizations to collaborate open-source projects as a volunteer!
-- 🔭 I am currently learning and improving Node, Typescript, React, TDD, SOLID.!
+- 🔭 I am currently learning and improving Node, Typescript, JavaScript, PHP, TDD!
 - 🤔 I'm looking for helping with solving coding issues!
+
+<br/>
+<br/>
+<br/>
 
 <a href="https://github.com/felippebutland">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=felippebutland&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
