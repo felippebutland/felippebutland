@@ -31,3 +31,11 @@ I'm Felippe Butland, aspiring back-end developer, passionate about anime, I like
   <a href="https://www.linkedin.com/in/felippe-butland-5361591a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/felippe.butland/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+  
+  <details>
+  <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
+
+![Metrics](https://metrics.lecoq.io/felippebutland?template=classic&followup=1&followup.sections=repositories&config.timezone=America%2FBelem)
+
+</details>
+
