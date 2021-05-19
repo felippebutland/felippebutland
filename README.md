@@ -4,11 +4,9 @@
 
 <br/>
 
-I'm Felippe Butland, aspiring back-end developer, passionate about anime, I like challenges, I'm always looking to learn new things.
+I'm Felippe Butland, aspiring back-end developer, I like challenges, I'm always looking to learn new things.
 <br/>
 
-
-- :rocket: I’m looking for organizations to collaborate open-source projects as a volunteer!
 - 🔭 I am currently learning and improving Node, Typescript, JavaScript, PHP, TDD!
 - 🤔 I'm looking for helping with solving coding issues!
 
