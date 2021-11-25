@@ -7,7 +7,7 @@
 I'm Felippe Butland, aspiring back-end developer, I like challenges, I'm always looking to learn new things.
 <br/>
 
-- 🔭 I am currently learning and improving Node, Typescript, JavaScript, PHP, TDD!
+- 🔭 I am currently learning and improving Node, Typescript, JavaScript, TDD!
 - 🤔 I'm looking for helping with solving coding issues!
 
 <br/>
